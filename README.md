@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/01c1f1ba-a0a3-4c5e-9081-59e999255789
 # 🚴 Digital-Two-Wheeler-Hub
 
 A **smart two-wheeler marketplace web app** for bikes, scooters, and EVs — combining **discovery, transparency, dealer integration**, and **user convenience**.
@@ -20,9 +21,7 @@ The two-wheeler market today is:
 - ⚠️ **Fragmented:** Buyers struggle to compare and check affordability  
 - 🕰 **Outdated:** Dealers lack digital tools to reach potential customers  
 - 🚫 **Limited:** Current platforms act as classifieds, not smart ecosystems  
-
 ---
-
 ## 🔹 Our Solution
 
 **Digital-Two-Wheeler-Hub = Marketplace + Decision Tools + Dealer Ecosystem**
@@ -35,9 +34,7 @@ The two-wheeler market today is:
 📱 Fully responsive across devices  
 
 🚀 **Stretch Goals:** Side-by-side comparison, upcoming launches, test ride booking  
-
 ---
-
 ## 🧠 Tech Stack
 
 This project is built with:
