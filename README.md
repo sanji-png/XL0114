@@ -52,11 +52,11 @@ This project is built with:
 
 ---
 
-## 👥 Team – 404 Found As
+## 👥 Team – 404 Found Us
 
 | Name      | Role                     | Responsibilities                   |
 |------------|--------------------------|------------------------------------|
-| **Yashwanth** | 🧠 Lead Developer(Team Lead)         | Backend, Coordination              |
+| **Yaswanth** | 🧠 Lead Developer(Team Lead)         | Backend, Coordination              |
 | **Vijay**     | 💻 Frontend Developer     | React + Vite, UI Components        |
 | **Anurag**    | 🛠 Backend Developer      | Node.js, Supabase Integration      |
 | **Venky**     | 🎨 UI/UX Designer         | Design System, Layout, User Experience |
