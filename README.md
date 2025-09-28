@@ -1,26 +1,63 @@
-# Welcome to your Lovable project
+# 🚴 Digital-Two-Wheeler-Hub
 
-## Project info
+A **smart two-wheeler marketplace web app** for bikes, scooters, and EVs — combining **discovery, transparency, dealer integration**, and **user convenience**.
 
-**URL**: https://lovable.dev/projects/46ace6ef-b1f2-4507-880b-1f76220c419f
+---
 
-## How can I edit this code?
+## 🔹 What We Built
 
-There are several ways of editing your application.
+A modern web application that enables:
+- 🏍 **Discovery:** Browse, filter, and compare vehicles (bikes, scooters, EVs)  
+- 💡 **Transparency:** EMI & Fuel Cost Calculators, detailed specs, and price insights  
+- 🧩 **Dealer Integration:** Sellers manage their listings via dashboard  
+- 📱 **User Convenience:** Upcoming launches, test ride booking, responsive design  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/46ace6ef-b1f2-4507-880b-1f76220c419f) and start prompting.
+## 🔹 The Problem
 
-Changes made via Lovable will be committed automatically to this repo.
+The two-wheeler market today is:
+- ⚠️ **Fragmented:** Buyers struggle to compare and check affordability  
+- 🕰 **Outdated:** Dealers lack digital tools to reach potential customers  
+- 🚫 **Limited:** Current platforms act as classifieds, not smart ecosystems  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🔹 Our Solution
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Digital-Two-Wheeler-Hub = Marketplace + Decision Tools + Dealer Ecosystem**
 
-Follow these steps:
+### Key Features:
+🔍 Browse & filter vehicles by brand, price, fuel type  
+📄 Rich detail pages with specs & images  
+📊 EMI & Fuel Cost calculators for affordability  
+🛠 Seller/Dealer dashboard to manage listings  
+📱 Fully responsive across devices  
+
+🚀 **Stretch Goals:** Side-by-side comparison, upcoming launches, test ride booking  
+
+---
+
+## 🧠 Tech Stack
+
+This project is built with:
+
+- ⚛️ **React** (Frontend)  
+- ⚡ **Vite** (Fast bundler)  
+- 🔷 **TypeScript** (Type safety)  
+- 🎨 **Tailwind CSS** (Styling)  
+- 🧱 **shadcn-ui** (Modern UI components)  
+- 🗄 **Node.js** (Backend)  
+- 🧰 **Supabase** (Database & Authentication)  
+- ☁️ **Deployment:**  
+  - **Vercel** – Frontend  
+  - **Render / Heroku** – Backend  
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally 👇
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -32,42 +69,5 @@ cd <YOUR_PROJECT_NAME>
 # Step 3: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/46ace6ef-b1f2-4507-880b-1f76220c419f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
