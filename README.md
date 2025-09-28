@@ -54,7 +54,6 @@ This project is built with:
   - **Render / Heroku** – Backend  
 
 ---
----
 
 ## 👥 Team – 404 Found As
 
@@ -65,8 +64,9 @@ This project is built with:
 | **Anurag**    | 🛠 Backend Developer      | Node.js, Supabase Integration      |
 | **Venky**     | 🎨 UI/UX Designer         | Design System, Layout, User Experience |
 | **Nikhil**    | 📑 Documentation & Presentation | README, Pitch Deck, Demo Video     |
-🎥 Prototype Demo
 
+---
+🎥 Prototype Demo
 We created a prototype explainer video to showcase:
 
 Buyer flow (browse, filter, view details, calculators)
@@ -76,10 +76,10 @@ Seller flow (listings dashboard)
 Team workflow & contributions
 
 
-👉 Watch Prototype Video Below:
-
-🎥 Prototype Demo
 https://drive.google.com/drive/folders/1klyBPbO2qr1NOVbWqRrfPZk3nAfL77va
+---
+
+
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally 👇
