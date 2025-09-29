@@ -27,13 +27,19 @@ The two-wheeler market today is:
 **Digital-Two-Wheeler-Hub = Marketplace + Decision Tools + Dealer Ecosystem**
 
 ### Key Features:
-🔍 Browse & filter vehicles by brand, price, fuel type  
-📄 Rich detail pages with specs & images  
-📊 EMI & Fuel Cost calculators for affordability  
-🛠 Seller/Dealer dashboard to manage listings  
-📱 Fully responsive across devices  
 
-🚀 **Stretch Goals:** Side-by-side comparison, upcoming launches, test ride booking  
+- 🔍 Search & filter vehicles by make, price, or fuel efficiency
+
+- 📄 Rich detail pages with specs &images
+
+- 📊 Multimedia tools – help towards EMI and Fuel Cost rotation schedule
+
+- 🛠 Seller/Dealer dashboard to control the listings
+
+- 📱 Fully responsive across devices
+
+   Stretch Goals: Side by side comparison, future launches, test ride booking
+
 ---
 ## 🧠 Tech Stack
 
@@ -46,9 +52,7 @@ This project is built with:
 - 🧱 **shadcn-ui** (Modern UI components)  
 - 🗄 **Node.js** (Backend)  
 - 🧰 **Supabase** (Database & Authentication)  
-- ☁️ **Deployment:**  
-  - **Vercel** – Frontend  
-  - **Render / Heroku** – Backend  
+  
 
 ---
 
@@ -56,30 +60,23 @@ This project is built with:
 
 | Name      | Role                     | Responsibilities                   |
 |------------|--------------------------|------------------------------------|
-| **Yaswanth** | 🧠 Lead Developer(Team Lead)         | Backend, Coordination              |
-| **Vijay**     | 💻 Frontend Developer     | React + Vite, UI Components        |
-| **Anurag**    | 🛠 Backend Developer      | Node.js, Supabase Integration      |
-| **Venky**     | 🎨 UI/UX Designer         | Design System, Layout, User Experience |
-| **Nikhil**    | 📑 Documentation & Presentation | README, Pitch Deck, Demo Video     |
+| **Yaswanth** |  Lead Developer(Team Lead)         | Backend, Coordination              |
+| **Vijay**     |  Frontend Developer     | React + Vite, UI Components        |
+| **Anurag**    |  Backend Developer      | Node.js, Supabase Integration      |
+| **Venky**     |  UI/UX Designer         | Design System, Layout, User Experience |
+| **Nikhil**    | Documentation & Presentation | README, Pitch Deck, Demo Video     |
 
 ---
-🎥 Prototype Demo
-We created a prototype explainer video to showcase:
-
-Buyer flow (browse, filter, view details, calculators)
-
-Seller flow (listings dashboard)
-
-Team workflow & contributions
+🎥 Prototype Demo:
 
 
 https://drive.google.com/drive/folders/1klyBPbO2qr1NOVbWqRrfPZk3nAfL77va
 ---
 
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-Follow these steps to run the project locally 👇
+Follow these steps to run the project locally 
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
